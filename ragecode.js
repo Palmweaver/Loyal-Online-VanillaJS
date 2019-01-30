@@ -57,9 +57,7 @@ gon.watch("thisuser", grabUser); // Snags the user object from Ruby, and passes 
       charactersholder = obj;
   }
 
-//----------------XXXXXXXX_______________----------------------XXXXXXXXX--------
-//-----------TABLE OF CONTENTS--------------------
-//----------------XXXXXXXX_______________----------------------XXXXXXXXX--------
+
 
 //----------------XXXXXXXX_______________----------------------XXXXXXXXX--------
 //---------------INCOMING NETWORK SECTION
